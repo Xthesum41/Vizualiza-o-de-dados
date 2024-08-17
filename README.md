@@ -1,1 +1,2 @@
 # Vizualiza-o-de-dados
+Este notebook explora técnicas de visualização de dados utilizando os conjuntos de dados "Titanic" e "Penguins" do Seaborn. Através de gráficos e análises visuais, mostramos como diferentes variáveis se relacionam e influenciam os resultados dentro de cada conjunto de dados. Este projeto serve como uma introdução prática ao uso de visualizações para revelar padrões, tendências e insights em dados complexos.
